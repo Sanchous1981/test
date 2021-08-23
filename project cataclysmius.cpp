@@ -36,5 +36,8 @@ int main() {
 //	p3++;
 //	cout << p3++ << endl;
 //	cout << p3 << endl;
+	//uyyuyuyu
+	cout << "Help";
+
 
 }
